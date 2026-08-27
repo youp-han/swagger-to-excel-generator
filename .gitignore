@@ -1,3 +1,5 @@
 excel/
 __pycache__/
 *.pyc
+*CLAUDE*.*
+*CLAUDE*/
